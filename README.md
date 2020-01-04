@@ -1,5 +1,6 @@
 # Directory-analyzer
 Original author: Legendax24 (legenda24)
+-----------------------------------------
 Version = 1.0.0
 
 Description: Script for printing info about max size and min size file of specified directory
