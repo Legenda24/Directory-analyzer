@@ -21,4 +21,4 @@ hurry.filesize (pip install hurry.filesize)
 Support Windows(tested on Windows 7)
 Linux not support
 
-# TODO Linux support
+#TODO Linux support
