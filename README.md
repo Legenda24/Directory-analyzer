@@ -7,11 +7,10 @@ Description: Script for printing info about max size and min size file of specif
 This script required python version >= 3.6 (cause of new f-strings)
 
 ## Versions
-Avaible 4 versions of script:
+Avaible 3 versions of script:
 analyzer.py - not gui supported version;
 gui analyzer.py - gui supported version (oop style);
 gui analyzer2.py - gui supported version (functional programming style);
-analyzer.exe - executable file (with gui);
 
 ##  Modules
 ttkthemes (pip install ttkthemes)
