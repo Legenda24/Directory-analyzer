@@ -20,8 +20,7 @@ ttkthemes (pip install ttkthemes)
 hurry.filesize (pip install hurry.filesize)
 
 ## Support
-Support Windows(tested on Windows 7)
-***
-Linux not support
+* Support Windows(tested on Windows 7)
+* Linux not support
 
 #TODO Linux support
