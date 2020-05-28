@@ -3,7 +3,7 @@ Description
 ------------------------
 * Original author: Legendax24 (legenda24)
 * Script for printing info about max size and min size file of specified directory
-* This script required python version >= 3.6 (cause of new f-strings)
+* Needed python version >= 3.6 (cause of new f-strings)
 
 ## Versions
 * analyzer.py - not gui supported version
